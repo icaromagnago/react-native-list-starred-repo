@@ -5,15 +5,13 @@ Application to show starred repositories from GitHub using React Native
 
 Improvements in the app created during module 06 of the Rocketseat's Bootcamp GoStack.
 
-<img src=".github/img01.jpeg" width="300px" /> <br/>
+<img src=".github/img01.jpg" width="300px" /> <br/>
 
-<img src=".github/img02.jpeg" width="300px" /> <br/>
+<img src=".github/img02.jpg" width="300px" /> <br/>
 
-<img src=".github/img03.jpeg" width="300px" /> <br/>
+<img src=".github/img03.jpg" width="300px" /> <br/>
 
-<img src=".github/img04.jpeg" width="300px" /> <br/>
-
-# :computer: Tecgnologies
+# :computer: Tecnologies
 
 <ul>
   <li><a href="https://reactnative.dev/?utm_source=jobhired.io">React Native</a></li>
